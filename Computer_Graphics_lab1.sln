@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Computer_Graphics_lab1", "Computer_Graphics_lab1\Computer_Graphics_lab1.csproj", "{BE884D91-E8F1-45EB-8104-AA5D84FC92BA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Computer_Graphics_Lab1", "CG1\Computer_Graphics_Lab1.csproj", "{EE31CF49-CABA-4A83-BE45-E139D7227A56}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BE884D91-E8F1-45EB-8104-AA5D84FC92BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BE884D91-E8F1-45EB-8104-AA5D84FC92BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BE884D91-E8F1-45EB-8104-AA5D84FC92BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BE884D91-E8F1-45EB-8104-AA5D84FC92BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE31CF49-CABA-4A83-BE45-E139D7227A56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE31CF49-CABA-4A83-BE45-E139D7227A56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE31CF49-CABA-4A83-BE45-E139D7227A56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE31CF49-CABA-4A83-BE45-E139D7227A56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D36AFD95-7C07-48FA-8797-EF7284228238}
+		SolutionGuid = {2A6786E7-B4BC-41F7-BB44-B1EDA5525BB3}
 	EndGlobalSection
 EndGlobal
